@@ -1,5 +1,5 @@
 // * Valores públicos (si no se pone "public", igual lo son por defecto)
-// * Se pueden modificar o utilizar fuera de la clase
+// * Se pueden modificar o utilizar fuera de la función
 
 export class MyDate {
   public year: number;
